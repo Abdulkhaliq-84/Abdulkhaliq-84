@@ -8,4 +8,4 @@
 
 📫 Reach me at: abdulkhaleqals.22@gmail.com
 
-🔗 Connect with me on LinkedIn
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/abdulkhaleq-al-subaie-8927bb324)
