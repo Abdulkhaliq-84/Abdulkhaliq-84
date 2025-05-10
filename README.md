@@ -1,10 +1,10 @@
 👋 Hi, I’m @Abdulkhaliq-84
 
-👀 I’m passionate about Flutter Development
+👀 I’m passionate about Flutter Development and Web Developmnet
 
 🌱 Currently learning Flutter (Dart) with Clean Architecture and FastAPI (Python)
 
-💞️ I’m looking to collaborate on impactful and scalable mobile projects
+💞️ I’m looking to collaborate on impactful and scalable mobile projects , web projects
 
 📫 Reach me at: abdulkhaleqals.22@gmail.com
 
